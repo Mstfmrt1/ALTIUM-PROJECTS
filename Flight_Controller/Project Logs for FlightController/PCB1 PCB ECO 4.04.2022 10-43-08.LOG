@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=USB_N
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Class: Name=USB

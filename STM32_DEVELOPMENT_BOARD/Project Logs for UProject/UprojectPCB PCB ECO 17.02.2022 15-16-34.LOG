@@ -1,0 +1,128 @@
+Added Pin To Net: NetName=GND Pin=D3-A
+Added Pin To Net: NetName=NetC6_2 Pin=D3-C
+Added Member To Class: ClassName=Power Management Member=Component BR1 
+Added Member To Class: ClassName=Microcontroller Member=Component BZ1 CMI-9605IC-0580T
+Added Member To Class: ClassName=Power Management Member=Component C1 470uF
+Added Member To Class: ClassName=Power Management Member=Component C2 470uF
+Added Member To Class: ClassName=Power Management Member=Component C3 CL21B105KBFNNNE
+Added Member To Class: ClassName=Power Management Member=Component C4 C0603C104K5RACTU
+Added Member To Class: ClassName=Power Management Member=Component C5 EEV686M035A9HAA
+Added Member To Class: ClassName=Power Management Member=Component C6 0603B103K160CT
+Added Member To Class: ClassName=Power Management Member=Component C7 CL21A475KAQNNNE
+Added Member To Class: ClassName=Power Management Member=Component C8 CL21B105KBFNNNE
+Added Member To Class: ClassName=Power Management Member=Component C9 C0603C104K5RACTU
+Added Member To Class: ClassName=Power Management Member=Component C10 CL21A475KAQNNNE
+Added Member To Class: ClassName=Power Management Member=Component C11 CL21B105KBFNNNE
+Added Member To Class: ClassName=Power Management Member=Component C12 CL21A475KAQNNNE
+Added Member To Class: ClassName=Power Management Member=Component C13 CL21A475KAQNNNE
+Added Member To Class: ClassName=Power Management Member=Component C14 CL21B105KBFNNNE
+Added Member To Class: ClassName=Microcontroller Member=Component C15 CL10C200JB8NNNC
+Added Member To Class: ClassName=Microcontroller Member=Component C16 CL21A475KAQNNNE
+Added Member To Class: ClassName=Microcontroller Member=Component C17 CL21B105KBFNNNE
+Added Member To Class: ClassName=Microcontroller Member=Component C18 CL21B104KBCNNNC
+Added Member To Class: ClassName=Microcontroller Member=Component C19 CL10C200JB8NNNC
+Added Member To Class: ClassName=Microcontroller Member=Component C20 CL21B104KBCNNNC
+Added Member To Class: ClassName=Microcontroller Member=Component C21 C0603C104K5RACTU
+Added Member To Class: ClassName=Microcontroller Member=Component C22 CL21A475KAQNNNE
+Added Member To Class: ClassName=Microcontroller Member=Component C23 CL21B105KBFNNNE
+Added Member To Class: ClassName=Microcontroller Member=Component C24 CL21B104KBCNNNC
+Added Member To Class: ClassName=Microcontroller Member=Component C25 CL21B104KBCNNNC
+Added Member To Class: ClassName=Microcontroller Member=Component C26 CL21B104KBCNNNC
+Added Member To Class: ClassName=Microcontroller Member=Component C27 CL21B104KBCNNNC
+Added Member To Class: ClassName=Microcontroller Member=Component C28 CL21B105KBFNNNE
+Added Member To Class: ClassName=Microcontroller Member=Component C29 CL21B104KBCNNNC
+Added Member To Class: ClassName=Microcontroller Member=Component C30 ESH477M050AH4AA
+Added Member To Class: ClassName=Microcontroller Member=Component C31 CL21B104KBCNNNC
+Added Member To Class: ClassName=Microcontroller Member=Component C32 CL21B105KBFNNNE
+Added Member To Class: ClassName=Sensor Board Member=Component C33 C0603C104K5RACTU
+Added Member To Class: ClassName=Sensor Board Member=Component C34 CL21A475KAQNNNE
+Added Member To Class: ClassName=Sensor Board Member=Component C35 CL21B105KBFNNNE
+Added Member To Class: ClassName=Sensor Board Member=Component C36 CL21A475KAQNNNE
+Added Member To Class: ClassName=Sensor Board Member=Component C37 CL21A475KAQNNNE
+Added Member To Class: ClassName=Sensor Board Member=Component C38 CL21B105KBFNNNE
+Added Member To Class: ClassName=Sensor Board Member=Component C39 C0603C104K5RACTU
+Added Member To Class: ClassName=Sensor Board Member=Component C40 CL21B105KBFNNNE
+Added Member To Class: ClassName=Sensor Board Member=Component C41 0603B103K160CT
+Added Member To Class: ClassName=Sensor Board Member=Component C42 C3216X5R1E336M160AC
+Added Member To Class: ClassName=Sensor Board Member=Component C43 C0603C104K5RACTU
+Added Member To Class: ClassName=Sensor Board Member=Component C44 0603B103K160CT
+Added Member To Class: ClassName=Sensor Board Member=Component C45 C3216X5R1E336M160AC
+Added Member To Class: ClassName=Sensor Board Member=Component C46 C0603C104K5RACTU
+Added Member To Class: ClassName=Sensor Board Member=Component C47 C0603C104K5RACTU
+Added Member To Class: ClassName=Power Management Member=Component D1 1N4148WS
+Added Member To Class: ClassName=Power Management Member=Component D2 1N4148WS
+Added Member To Class: ClassName=Power Management Member=Component D3 1SMB5919BT3G
+Added Member To Class: ClassName=Power Management Member=Component D4 1N4148WS
+Added Member To Class: ClassName=Microcontroller Member=Component D5 1N4148WS
+Added Member To Class: ClassName=Sensor Board Member=Component D6 LH R974-LP-1
+Added Member To Class: ClassName=Sensor Board Member=Component D7 LTST-C171GKT
+Added Member To Class: ClassName=Power Management Member=Component F1 FUSE 3413.0216.22
+Added Member To Class: ClassName=Power Management Member=Component J1 TBP01R1-508-02BE
+Added Member To Class: ClassName=Power Management Member=Component J2 TBP01R1-508-02BE
+Added Member To Class: ClassName=Power Management Member=Component J3 TBP01R1-508-02BE
+Added Member To Class: ClassName=Power Management Member=Component J4 SMH-105-02-L-S
+Added Member To Class: ClassName=Power Management Member=Component J5 PJ-037AH-SMT-TR
+Added Member To Class: ClassName=Power Management Member=Component J6 PJ-037AH-SMT-TR
+Added Member To Class: ClassName=Power Management Member=Component J7 64800611622
+Added Member To Class: ClassName=Sensor Board Member=Component J8 64800611622
+Added Member To Class: ClassName=Power Management Member=Component L1 78438335470
+Added Member To Class: ClassName=Power Management Member=Component Q1 MMBT3904-7-F
+Added Member To Class: ClassName=Power Management Member=Component Q2 MMBT3904-7-F
+Added Member To Class: ClassName=Microcontroller Member=Component Q3 MMBT3904-7-F
+Added Member To Class: ClassName=Microcontroller Member=Component Q4 MMBT3904-7-F
+Added Member To Class: ClassName=Sensor Board Member=Component Q5 MMBT3904-7-F
+Added Member To Class: ClassName=Power Management Member=Component R1 5WD27
+Added Member To Class: ClassName=Power Management Member=Component R2 RC0603FR-0710KL
+Added Member To Class: ClassName=Power Management Member=Component R3 RC0603FR-0710KL
+Added Member To Class: ClassName=Power Management Member=Component R4 RC0603FR-0710KL
+Added Member To Class: ClassName=Power Management Member=Component R5 RC0603FR-0710KL
+Added Member To Class: ClassName=Microcontroller Member=Component R6 RC0603JR-07100RL
+Added Member To Class: ClassName=Microcontroller Member=Component R7 RC0603JR-07100RL
+Added Member To Class: ClassName=Microcontroller Member=Component R8 RC0603JR-0715RL
+Added Member To Class: ClassName=Microcontroller Member=Component R9 RC0603JR-0715RL
+Added Member To Class: ClassName=Microcontroller Member=Component R10 RC0603JR-07100RL
+Added Member To Class: ClassName=Microcontroller Member=Component R11 RC0603JR-07100RL
+Added Member To Class: ClassName=Microcontroller Member=Component R12 RC0603JR-07100RL
+Added Member To Class: ClassName=Microcontroller Member=Component R13 RC0603JR-07100RL
+Added Member To Class: ClassName=Microcontroller Member=Component R14 RC0603JR-07100RL
+Added Member To Class: ClassName=Microcontroller Member=Component R15 RC0603FR-0710KL
+Added Member To Class: ClassName=Microcontroller Member=Component R16 RC0603JR-07100RL
+Added Member To Class: ClassName=Microcontroller Member=Component R17 RC0603JR-07100RL
+Added Member To Class: ClassName=Microcontroller Member=Component R18 RC0603JR-07100RL
+Added Member To Class: ClassName=Microcontroller Member=Component R19 RC0603JR-07100RL
+Added Member To Class: ClassName=Microcontroller Member=Component R20 RC0603JR-07100RL
+Added Member To Class: ClassName=Microcontroller Member=Component R21 RC0603JR-074K7L
+Added Member To Class: ClassName=Microcontroller Member=Component R22 RC0603JR-074K7L
+Added Member To Class: ClassName=Sensor Board Member=Component R23 RC0603JR-07100RL
+Added Member To Class: ClassName=Sensor Board Member=Component R24 RC0603JR-07220KL
+Added Member To Class: ClassName=Sensor Board Member=Component R25 RC0603FR-0710KL
+Added Member To Class: ClassName=Sensor Board Member=Component R26 RC0603JR-07220KL
+Added Member To Class: ClassName=Sensor Board Member=Component R27 RC0603FR-0710KL
+Added Member To Class: ClassName=Sensor Board Member=Component R28 RC0603FR-0710KL
+Added Member To Class: ClassName=Sensor Board Member=Component R29 RC0603JR-07560KL
+Added Member To Class: ClassName=Sensor Board Member=Component R30 RC0603JR-07220KL
+Added Member To Class: ClassName=Sensor Board Member=Component R31 RC0603FR-0710KL
+Added Member To Class: ClassName=Sensor Board Member=Component R32 RC0603FR-0710KL
+Added Member To Class: ClassName=Sensor Board Member=Component R33 RC0603JR-07560KL
+Added Member To Class: ClassName=Sensor Board Member=Component R34 RC0603FR-0710KL
+Added Member To Class: ClassName=Sensor Board Member=Component R35 RC0603JR-070RL
+Added Member To Class: ClassName=Sensor Board Member=Component R36 RC0603JR-070RL
+Added Member To Class: ClassName=Sensor Board Member=Component R37 RC0603JR-0743KL
+Added Member To Class: ClassName=Power Management Member=Component RL1 ALQ112
+Added Member To Class: ClassName=Power Management Member=Component RL2 ALQ112
+Added Member To Class: ClassName=Sensor Board Member=Component RT1 TFPT1206L1002FM
+Added Member To Class: ClassName=Sensor Board Member=Component S1 LHI 878/3902
+Added Member To Class: ClassName=Microcontroller Member=Component SW1 EG1215AA
+Added Member To Class: ClassName=Power Management Member=Component T1 BV302S12010-ZU
+Added Member To Class: ClassName=Power Management Member=Component U1 LM2675MX-12/NOPB
+Added Member To Class: ClassName=Power Management Member=Component U2 AP7361-33E-13
+Added Member To Class: ClassName=Microcontroller Member=Component U3 USBLC6-2SC6
+Added Member To Class: ClassName=Microcontroller Member=Component U4 STM32F103C6T6A
+Added Member To Class: ClassName=Microcontroller Member=Component U5 ESP32-WROOM-32
+Added Member To Class: ClassName=Microcontroller Member=Component U6 MAX6662
+Added Member To Class: ClassName=Microcontroller Member=Component U7 M41T00M6F
+Added Member To Class: ClassName=Sensor Board Member=Component U8 OPA314AIDBVR
+Added Member To Class: ClassName=Sensor Board Member=Component U9 NCS36000DRG
+Added Member To Class: ClassName=Power Management Member=Component USB1 10118192-0001LF
+Added Member To Class: ClassName=Microcontroller Member=Component X1 ECS-160-20-30B-TR
+Added Member To Class: ClassName=Microcontroller Member=Component X2 ABS05-32.768KHZ-T

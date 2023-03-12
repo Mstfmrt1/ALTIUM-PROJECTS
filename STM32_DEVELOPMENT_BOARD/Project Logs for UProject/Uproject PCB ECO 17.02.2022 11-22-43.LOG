@@ -1,0 +1,8 @@
+Added Component: Designator=BR1(DB105STR)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sangdest Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "DB105STR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0,45000, 10=0,33600, 100=0,20900, 500=0,14300 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "8757"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1655-1821-1-ND"; VariantName = "[No Variations]"

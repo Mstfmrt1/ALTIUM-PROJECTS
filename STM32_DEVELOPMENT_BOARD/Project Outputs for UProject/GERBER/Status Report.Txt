@@ -1,0 +1,28 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [UProject.PrjPcb]
+   Generated File[UprojectPCB.GTO]
+   Generated File[UprojectPCB.GTP]
+   Generated File[UprojectPCB.GTS]
+   Generated File[UprojectPCB.GTL]
+   Generated File[UprojectPCB.GP1]
+   Generated File[UprojectPCB.GP2]
+   Generated File[UprojectPCB.GBL]
+   Generated File[UprojectPCB.GBS]
+   Generated File[UprojectPCB.GBP]
+   Generated File[UprojectPCB.GBO]
+   Generated File[UprojectPCB.GM7]
+   Generated File[UprojectPCB.GKO]
+   Generated File[UprojectPCB.GPT]
+   Generated File[UprojectPCB.GPB]
+   Generated File[UprojectPCB.GD1]
+   Generated File[UprojectPCB.GG1]
+   Generated File[UprojectPCB.RUL]
+   Generated File[UprojectPCB.EXTREP]
+   Generated File[UprojectPCB.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 15:22:09 On 23.02.2022

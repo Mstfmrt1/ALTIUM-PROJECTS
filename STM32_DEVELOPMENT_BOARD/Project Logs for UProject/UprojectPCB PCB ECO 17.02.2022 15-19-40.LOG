@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=BR1 Old Footprint=3413.0216.22 New Footprint=DB105STR
+Added Pin To Net: NetName=NetBR1_3 Pin=BR1-3
+Added Pin To Net: NetName=GND Pin=BR1-4

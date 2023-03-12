@@ -1,0 +1,98 @@
+Added Component: Designator=IC?(TI PVSON-10 3X3MM DRC)
+Add component (AddParameter): Name = "-3db Bandwidth"; Value = "23MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Capacitance (CS(off), CD(off))"; Value = "90pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel-to-Channel Matching (?Ron)"; Value = "10mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Charge Injection"; Value = "9pC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fts3a24159"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "//digikey.com/product-detail/en/texas-instruments/TS3A24159DRCR/296-21914-2-ND/1629087"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Crosstalk"; Value = "-96dB @ 1MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Leakage (IS(off)) (Max)"; Value = "10nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "10-VFDFN Exposed Pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "9.12.2019 14:26:49"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiplexer/Demultiplexer Circuit"; Value = "2:1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "On-State Resistance (Max)"; Value = "300mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "10-VFDFN Exposed Pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TS3A24159DRCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "10-VSON (3x3)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-21914-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Time (Ton, Toff) (Max)"; Value = "35ns, 25ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply, Single (V+)"; Value = "1.65V ~ 3.6V"; VariantName = "[No Variations]"
+Added Component: Designator=PS?(TDN 5-2411WI)
+Add component (AddParameter): Name = "Category"; Value = "Board Mount Modules"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/2361759.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/2361759.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/2062557.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/2062557.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output 1"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "13.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Traco Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TDN5-2411WI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Power"; Value = "5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "36V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "9V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=25,79000, 10=25,23400, 25=24,83920, 40=23,65650, 80=21,68513, 230=21,29087, 440=21,02800 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "137"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1951-1377-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output 1"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "9.1mm"; VariantName = "[No Variations]"
+Added Component: Designator=U?(LQFP-100)
+Add component (AddParameter): Name = "Category"; Value = "Microcontrollers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LPC54016JBD100E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=11,88000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "568-13835-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U?(LQFP-100)
+Add component (AddParameter): Name = "Category"; Value = "Microcontrollers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LPC54016JBD100E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=11,88000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "568-13835-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U?(LQFP-100)
+Add component (AddParameter): Name = "Category"; Value = "Microcontrollers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LPC54016JBD100E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=11,88000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "568-13835-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetPS?_2 Pin=PS?-2
+Added Pin To Net: NetName=NetPS?_2 Pin=U?-19
+Added Net: Name=NetPS?_2
+Added Pin To Net: NetName=NetU?_2 Pin=U?-2
+Added Pin To Net: NetName=NetU?_2 Pin=U?-22
+Added Pin To Net: NetName=NetU?_2 Pin=U?-34
+Added Pin To Net: NetName=NetU?_2 Pin=U?-93
+Added Net: Name=NetU?_2
+Added Pin To Net: NetName=NetU?_3 Pin=U?-3
+Added Pin To Net: NetName=NetU?_3 Pin=U?-9
+Added Net: Name=NetU?_3
+Added Pin To Net: NetName=NetU?_48 Pin=U?-48
+Added Pin To Net: NetName=NetU?_48 Pin=IC?-5
+Added Net: Name=NetU?_48

@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=OUT5 Pin=D3-1
+Removed Pin From Net: NetName=+24V Pin=D3-2
+Removed Pin From Net: NetName=OUT3 Pin=D5-1
+Removed Pin From Net: NetName=+24V Pin=D5-2
+Removed Pin From Net: NetName=OUT2 Pin=D6-1
+Removed Pin From Net: NetName=+24V Pin=D6-2
+Removed Pin From Net: NetName=OUT1 Pin=D7-1
+Removed Pin From Net: NetName=+24V Pin=D7-2
+Added Pin To Net: NetName=+24V Pin=D3-1
+Added Pin To Net: NetName=OUT5 Pin=D3-2
+Added Pin To Net: NetName=+24V Pin=D4-1
+Added Pin To Net: NetName=+24V Pin=D5-1
+Added Pin To Net: NetName=OUT3 Pin=D5-2
+Added Pin To Net: NetName=+24V Pin=D6-1
+Added Pin To Net: NetName=OUT2 Pin=D6-2
+Added Pin To Net: NetName=+24V Pin=D7-1
+Added Pin To Net: NetName=OUT1 Pin=D7-2
+Added Pin To Net: NetName=+24V Pin=D9-1
+Added Pin To Net: NetName=+24V Pin=K4-C2
+Added Pin To Net: NetName=+24V Pin=U3-13
+Change Net Name : Old Net Name=+24V New Net Name=OUT4
+Added Member To Class: ClassName=RELAYBOARD Member=Component D10 LS R976-NR-1
+Added Member To Class: ClassName=RELAYBOARD Member=Component K4 ALQ1F24
+Added Member To Class: ClassName=RELAYBOARD Member=Component K5 ALQ1F24
+Added Member To Class: ClassName=RELAYBOARD Member=Component R3 10K

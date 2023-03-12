@@ -1,0 +1,19 @@
+Move Component(s) Origin to Grid
+Filename     : C:\Users\mert\Desktop\boostconverter\History\PCB2.PcbDoc
+Date         : 2.02.2022
+Time         : 00:32:41
+Time Elapsed : 00:00:00
+
+
+    SMT Small Component R3-2 kOhms (58mm,71mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R2-3 kOhms (84mm,91mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R1-56 kOhms (89mm,91mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Small Component L1-100µH (72mm,65mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT SIP Component IC1-LM2587 (74mm,85.349mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component D1-SURS8360T3G (85mm,78mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C5-0.68µF (55mm,71mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C4-0.1µF (63mm,83mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C3-56µF (57mm,84mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component C2-100µF (94mm,84mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component C1-100µF (94mm,69.2mm) on Top Layer - Component pads are OFF grid. No action taken.
+count : 11
