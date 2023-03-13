@@ -1,4 +1,3 @@
-
-![3](https://user-images.githubusercontent.com/104312094/224804577-824f983b-6362-4d61-8e5c-f03f2536ff6e.PNG)
-![Ekran Alıntısı](https://user-images.githubusercontent.com/104312094/224804595-0904b19e-3fbc-4c92-a695-4c74602a384c.PNG)
-![Ekran Alıntısı PNG1](https://user-images.githubusercontent.com/104312094/224804612-43850b96-f688-40a4-9ec3-512dbb9b1de7.PNG)
+![12](https://user-images.githubusercontent.com/104312094/224805551-ef3a6942-3001-412c-b150-0f51564364b8.PNG)
+![13](https://user-images.githubusercontent.com/104312094/224805565-762261d3-559c-4d4b-9d98-2fb99a73f7f2.PNG)
+![11](https://user-images.githubusercontent.com/104312094/224805581-35f5e69c-29e9-45ef-83ed-b59a1c5d9397.PNG)
